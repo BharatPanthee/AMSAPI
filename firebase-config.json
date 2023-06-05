@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "attendance-maintenance-system",
+  "private_key_id": "9b3529afbbc89da13d6eb6336adbc21547066ca1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDATQXa/F92DT4X\nsWoDyfLSIYTNS1duoSGrQ+h6LKDj+pp8xAUhOlbaeJmWS54U4C6KprYN9SAxhkta\nwolqBQ7QMjrxIXa+bDPcaltXyKOx7OmUrDlev/FriudGsp88rsUW5oZ60yBBSggI\nFGRzhtgbEIomxN4XKrQZiKIHVuTdRV8WDZn734YaDvtlrfTf2V4DAIykd2f2Y/kh\nHQwiYkCLnfeSQ5GzhPfyYlv7783wvqgY32z7D0Nb8YFHwDa8dsh2x1i7PZ7zsfNW\n0jl8BEB4qHwLDIkD2Ts14J3dsTfWOgmA05mW6CA00GkirEEnnBy3pwPA0DLD0Bdz\nreMnpHbFAgMBAAECggEAD/IzIpob5mOpuvg8xMypxI///bAaM3PMIXITpJHv04fT\n6LWugTdfvWUTw1lI5g1C/r9dSGIDxeePdxq7n12FAXGw3o76VEcPs97j7S8Xl+j/\n45K2fStofxT5Ia0tNDB/6mq6SxQX0CIt8VGTlNrhL7la42Uez4f8gEOKwBYOC2UQ\n1tDc6d1mW8YcE87GHofx3lw8SPSG4xRleOt7DyoKDRVHDAUHrsuhoQkmg+SIknWo\nwtO9vRW4bKb1bIBDOfN42nLTZ4LoFehs1uBEM43kmXxe/dsQjyorZoMac2VdSp3B\nSugwHQtRl8zfvuV7+kvdpcDGATjEiLUKbD2SY72qTwKBgQDwm1Ardx1OnFVYeSww\nORgMTkx4AXlld/6CtkG/9proY1+r+hZ3oJ2SPQlHz1DH8/M9Cql10CCVoBJYbUuj\nnHbYInT8GpoDgyU6fGDuz/FUITyp6p7rI4yQTyPt+ToZhJE7Bn0HjCLG8FSMpUQX\n3FnjGAu4MFKlRXcR64p0p8hOIwKBgQDMmo0E3yQj+xm3j3SC2lVtM6B6PH9ZEgO8\n367Odetq8mijSusAgNXmm3kt8ILU8zKSJ43Q4NwAIQnPlqkQawfuu0Ox8egYa/rY\nZoIzAnZzrxx4lxYw7oPNeAlm1JNZlG475gZAxcNdH+hARatLPpgsZ429a8IUnpy1\nG5r7TzhR9wKBgFaA4F/gIU9D8YMvfW2Q+U5jUCbNEOIkNAK2mAj2Fld6cskXzsAP\npNcQzqdcp8RbtpW5oZdTzoM825ujH9CgzjGCoeCJh9m/asEOOqNha3g9wtusGJqd\nW0n+ygIi2nqWKMi52nW+Mjqn6R3vxP13IXH+ESiVZwE4akitEEhEkkVVAoGBAIYz\nUQ/C9MeM6b9Wnss9Pg8Ub8v9ZmIbyMvXw6az/af2O9/vQdjgqGxLyd3yBT58Dc2D\nmCdLdcG36eF5JocYTOmvdqV+0AdEvBG4mumuUddrIjeOkgWiTF02wKPsBoIZM3yi\nUbOmg4/PX9zYVZRTCCkH+xYlWfWAW7UG2E7CFWTdAoGBAOw9q33omsmUJkCrMXXN\nELQP+6EwsxnzEFyqV34Nelqm7wsIWYs5/AKr04CCWCUkhTgkUttgL7vn37a3Au3o\nDPlIdlwztsV40Gv6NOYdLb4ZnI9gzz3QhJae6Gqgj24Vvj+ozYIb7DZu82ZplcLI\nIkV07IOIuCdFwQWJzHZGiutn\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d7akh@attendance-maintenance-system.iam.gserviceaccount.com",
+  "client_id": "110896253707836316547",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d7akh%40attendance-maintenance-system.iam.gserviceaccount.com"
+}

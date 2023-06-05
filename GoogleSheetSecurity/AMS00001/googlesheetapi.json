@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "attendance-maintenance-system",
+  "private_key_id": "fe700e1b4355a7be71286a3af924fd87601ac0ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIOyqlD8cV2O8P\nG5xkGMkZGUclaSt0ix0FYgV11cYIeVgN+3aMbmeMk8Iw+L49qzmII5nmwRZNqS4e\n2cIIS8hCJwOy3GVIuE3mfQt17t0g6X0vMhcxJ5nVKnf/PK4Q0w3/cEmIDN0fqAWb\nigOEPM9hCn27QzcpgqL1bjPVA3yANaIWo2x8CAhSTbJDPFnKobr4YtTm7lIUo6ra\nDeBpl4zTNTo3wUquLlz/O5EL8hilQJeeY4QqRJa/wrNWPfhQjLl30GlJyStRikYP\nhPoYi1UXXn1e6bmwRdoXxRv9ghY6W5chLJscQP7KPUHPI7cKoi7VT/h0onVWp+cO\nPw9FOolvAgMBAAECggEAHd0qlcaDUbAyrPTX9TCigxUmFgpYP4r6ynFoPGmknmGa\nzzBmP2O9cKtzweIXsxL1WGdsQ40g9SGlOKy50orwVLgvm7Rg1uEbnU5L20xuZsOX\nDDxTATMq2oRPCXPUx7ry0i++h9rYpX67TLY0+BApzgtxMpuVKqJ1XlhlcAE+cdCf\nj0YNrG9G2AVtUE+25mUdxtifplRF9bLscXuOpn6i90SWigGHmnKRX5L1ZBqXZnqt\njiG1Of6shctCXwJuc8AxAtyfp3w/8UrD/f6LnXiy2bK33HW/xoUDvsbb9VW2Vi7I\ns94CS9DnyFdk70Vfq7HIXJfForjbqr0v54ZPBaDY4QKBgQD3IUcR4h6IepmDsMZz\n8REWUR+Ww8WIruN91RotvMqitoz5O8NfzkSkXLA7VnnTmx1+Y3RK5J/ddotkd7PJ\nmLo1yAWH/0Ngg5kir2a5SnamrkIIeqDuDi4CiWFqfc+YpDqGNl3LKNpkngW54LHW\nwO19IU0LlCkgux1mUNVT8qyRywKBgQDPavb0rH/rakqwHY5CBNSpyaGRELk1h1If\nAXW8v4TV+6Jo5mjNDavh2sHR6N9v29A7ZVjN5nQeZxQarIxGO2b5oxLawheHeQzC\n5+0c+feeh2ptcLnlU9D264XywnSwv04/Qbka6V1b4JnwB1FA4lbB4PwyejJ8E/Vb\n/DYfcLqibQKBgEsDceQuw9/ffvunTAXjdbFVfIYx9KLRm0IVznV1qfiL+uyoRFyv\nasyNSf0o+Z/OpLw5ihI1pYT+t78OSqd10YgDqBIo3JXOPEx3+3Fg9fUQTgDu4CyC\nZ1rjwosllz8ZEp6sn/nL88a45LoQR0sNksj5s75BAd7qjTkCbk6mCdXTAoGBAKQG\nIHjomNgf3CRdmwvWKh6ClsPTB8Ou2WAvlV3HzlIxhgOSgbn2X8Bhb/iBQYCBwa/W\nu11IKveH6DwXy24Wt54eOWDJMDYvocnYAohxnEG/MIiPJlKV75/0LJ8G66SCBGy9\nmpYPiYaInPNVtgmrc5QqSQXZ4GaCmfs9/cbrLIwZAoGAcykESxex3Raz7IoxzJ3c\n6Lu9oThTBP98oMmpX2P9N6ZmnoqKc0yigOFrn7vsJs5wELWyz03DCF5n8C1DhIW6\nzWl8ECcbKTLpVA9YY0mqwCpPMdIKvCiXJ04n5iV2JE5IV1Ls1YaR2y/DUcj8FYUo\n2OYL9RlI2NDGUwj5kP3q66Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "am-system@attendance-maintenance-system.iam.gserviceaccount.com",
+  "client_id": "111417805939511936098",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/am-system%40attendance-maintenance-system.iam.gserviceaccount.com"
+}
