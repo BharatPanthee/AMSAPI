@@ -57,8 +57,8 @@ namespace AMSAPI.Authentication
            
 
             var claims = new[] {
-            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-            new Claim(ClaimTypes.Name, user.Username??""),
+            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString(), "userid"),
+            new Claim(ClaimTypes.Name, user.Username??"","username"),
             new Claim(ClaimTypes.SerialNumber,user.GoogleSheetId??"","googlesheetid")
             };
             

@@ -10,5 +10,11 @@
         public bool? IsValid { get; set; }
         public string? Error { get; set; }
     }
+
+    public class MobileUserLogin
+    {
+        public string? UniqueId { get; set; }
+
+    }
     
 }

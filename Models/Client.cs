@@ -21,6 +21,7 @@
         public string? Password { get; set; }
         public string? Token { get; set; }
         public DateTime? Validity { get; set; }
+        public string? LoggedOnDate { get; set; }
     }
 
     public static class ClientsMapper
@@ -57,11 +58,12 @@
             {
                 ClientUser clientUser = new()
                 {
-                    Id =  Int32.Parse(value[0].ToString()??"0"),
+                    Id = Int32.Parse(value[0].ToString() ?? "0"),
                     Username = value[1].ToString(),
                     Password = value[2].ToString(),
                     Token = value[3].ToString(),
-                    Validity = DateTime.Parse(value[4].ToString()??"2023-01-01"),
+                    Validity = DateTime.Parse(value[4].ToString() ?? "2023-01-01"),
+                    LoggedOnDate = value[5].ToString(),
                 };
                 clientUsers.Add(clientUser);
             }

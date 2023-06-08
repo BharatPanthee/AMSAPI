@@ -18,12 +18,13 @@ namespace AMSAPI.Services
             GoogleSheetsHelper userGoogleSheetsHelper;
             userGoogleSheetsHelper = new GoogleSheetsHelper(hostEnvironment,clientCode);
             Users users = new Users(googleSheetId,"Users",userGoogleSheetsHelper);
-            var result = users.ValidateUser(username,password);
+            int? userId;
+            var result = users.ValidateUser(username,password, out userId);
             if(!result)
             {
                 return new User { IsValid = false, Error = "Invalid Username or Password" };
             }
-            return new User { IsValid = true, Username = username, Password = password, GoogleSheetId = googleSheetId };
+            return new User {Id = userId??0, IsValid = true, Username = username, Password = password, GoogleSheetId = googleSheetId };
         }
     }
 }

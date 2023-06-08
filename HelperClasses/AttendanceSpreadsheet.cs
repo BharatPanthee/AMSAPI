@@ -59,7 +59,6 @@ namespace AMSAPI.HelperClasses
             }
             // Define the range where data will be appended
             var range = $"{_spreadsheetName}!A:H";
-
             // Create the AppendRequest
             foreach(var _stdAttendance in studentAttendences)
             {

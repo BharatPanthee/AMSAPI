@@ -25,7 +25,7 @@ namespace AMSAPI.Controllers
         {
             //("17HMruiBj1T-q_TLdt9J_Ii5M19DuH1VhWsuO8umA5sk", "Student", googleSheetsHelper);
 
-            Students studentSpreadsheet = new ("17HMruiBj1T-q_TLdt9J_Ii5M19DuH1VhWsuO8umA5sk", sheetName, googleSheetsHelper);
+            Students studentSpreadsheet = new (Users.GetGoogleSheetId(User), sheetName, googleSheetsHelper);
             var students = studentSpreadsheet.GetStudentsWithoutClassInfo(classId, section);
             return new JsonResult(students);
         }
